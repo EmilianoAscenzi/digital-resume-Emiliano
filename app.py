@@ -106,8 +106,8 @@ st.write("Agosto 2020 - Maggio 2022")
 st.write(
     """
 - Progettazione ottico e civile di reti in fibra FTTH per oltre 60 comuni
-- Formazione di 7 membri del team di progettazione che ha permesso loro di completare progetti in autonomia con grande affidabilità
-- Supporto al regional lead nella risoluzione di conflitti fra il team di progettazione e le squadre in campo che ha portato a una riduzione di lavoro sprecato del 70% nei primi 5 mesi
+- Formazione rivolta a 7 membri del team di progettazione finalizzata all'accrescimento dell'autonomia ed efficienza in ambito operativo
+- Supporto al regional lead nella risoluzione di conflitti fra il team di progettazione e le squadre in campo con conseguente riduzione di lavoro sprecato del 70% nei primi 5 mesi
 
     """
 )
@@ -115,7 +115,7 @@ st.write(
 # Job 4
 
 st.write("🧑‍💼","**Digital Solutions Internship  |  Bridgestone NVSA**")
-st.write("Gennaio 2020 - Giugno 2022")
+st.write("Gennaio 2020 - Giugno 2020")
 st.write(
     """
 - Implementazione di un modello fisico che riproduca il comportamento delle sospensioni di un veicolo target
